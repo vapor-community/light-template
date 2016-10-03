@@ -6,7 +6,7 @@ This is an extremely lightweight, no frills starting point for Vapor application
 
 |Vapor|Xcode|Swift|
 |:-:|:-:|:-:|
-|0.18.x|8.0 GM|3.0-GM-Candidate|
+|1.0|8.0|3.0|
 
 ## 🛠 Setup
 
